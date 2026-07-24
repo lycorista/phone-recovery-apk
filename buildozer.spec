@@ -23,9 +23,9 @@ presplash.filename = icon.png
 android.permissions = INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,MANAGE_EXTERNAL_STORAGE,ACCESS_MEDIA_LOCATION
 
 # Android API 目标
-android.api = 31
+android.api = 33
 android.minapi = 26
-android.ndk = 25b
+
 android.sdk = 34
 
 # 架构 (arm64-v8a 覆盖绝大多数现代手机)
